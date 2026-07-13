@@ -1,6 +1,6 @@
 # untitled7
 
-A new Flutter project.
+Akıllı otopark ve araç takip sistemi için flutter framework ile geliştirlen mobil uygulama
 
 ## Getting Started
 
